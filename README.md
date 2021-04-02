@@ -3,8 +3,8 @@
 - Loves to code and debug end to end applications. 
 - Interested in learning the updated technology and gadgets.
 -  Budding learner and loves to improve everyday life.
--   I’d love to combine my passion for learning and application building with my  skills to continue building personalized products for people.
-Skills : Python, Machine Learning, Deep Learning Frameworks, Data science.
+-  I’d love to combine my passion for learning and application building with my  skills to continue building personalized products for people.
+- Skills : Python, Machine Learning, Deep Learning Frameworks, Data science.
 
 <!--
 **mahaveerjain98/mahaveerjain98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
